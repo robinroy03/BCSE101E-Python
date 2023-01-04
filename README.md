@@ -1,0 +1,1 @@
+Some schoolwork of python :)
